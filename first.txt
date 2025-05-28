@@ -1,2 +1,4 @@
 Hello
 Line2
+git add
+git commit
